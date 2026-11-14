@@ -69,8 +69,3 @@ PySpark · PostgreSQL · GitHub
 
 
 
-<p align="center">
-  <a href="https://www.youtube.com/@DataBeli"><img src="assets/youtube-icon.png" width="18" valign="middle"> YouTube</a>
-  &nbsp;|&nbsp;
-  <a href="https://www.linkedin.com/in/narender-kumar91/"><img src="assets/linkedin-icon.png" width="18" valign="middle"> LinkedIn</a>
-</p>
